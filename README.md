@@ -17,7 +17,9 @@ This library adds BindingsRx bindings for `TMP_Text`, `TMP_InputField`, and `TMP
 
 Bindings are ported directly from BindingsRx bindings for `Text`, `InputField`, and `DropDown`. 
 
-Therefore, the syntax are exactly the same.
+Therefore, the syntax are exactly the same with one exception:
+
+* uGUI uses `int` as font size, while TMP uses `float`. Therefore, I adjusted the extension methods to accept a `float` instead.
 
 ## License
 
