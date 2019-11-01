@@ -4,7 +4,7 @@
   "displayName": "BindingsRx-TextMeshPro",
   "license": "MIT",
   "name": "com.starikcetin.bindingsrx-textmeshpro",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "type": "library",
   "dependencies": {
     "com.grofit.bindingsrx": "https://github.com/starikcetin/bindingsrx.git#0.4.0",

@@ -6,7 +6,7 @@ using TMPro;
 using UniRx;
 using UnityEngine;
 
-namespace BindingsRx.TextMeshPro
+namespace BindingsRx.TMP
 {
     public static class TMP_DropdownExtensions
     {
