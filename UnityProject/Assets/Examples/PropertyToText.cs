@@ -1,5 +1,5 @@
 ﻿using System.Collections;
-using BindingsRx.TextMeshPro;
+using BindingsRx.TMP;
 using TMPro;
 using UniRx;
 using UnityEngine;

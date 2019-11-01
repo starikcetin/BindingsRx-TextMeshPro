@@ -1,4 +1,4 @@
-﻿using BindingsRx.TextMeshPro;
+﻿using BindingsRx.TMP;
 using TMPro;
 using UnityEngine;
 
