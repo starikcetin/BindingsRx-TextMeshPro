@@ -7,7 +7,7 @@
   "version": "0.1.0",
   "type": "library",
   "dependencies": {
-    "com.grofit.bindingsrx": "https://github.com/starikcetin/bindingsrx.git#0.4.0",
+    "com.grofit.bindingsrx": "0.4.0",
     "com.unity.textmeshpro": "2.0.1"
   }
 }
