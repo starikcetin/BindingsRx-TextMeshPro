@@ -1,3 +1,5 @@
+[![openupm](https://img.shields.io/npm/v/com.starikcetin.bindingsrx-textmeshpro?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.starikcetin.bindingsrx-textmeshpro/)
+
 # BindingsRx-TextMeshPro
 BindingsRx bindings for TextMeshPro.
 
@@ -7,11 +9,10 @@ This library adds BindingsRx bindings for `TMP_Text`, `TMP_InputField`, and `TMP
 
 ## Installation
 
-1. Get these two packages:
-    1. https://github.com/mob-sakai/UpmGitExtension
-    2. https://github.com/mob-sakai/GitDependencyResolverForUnity
-    
-2. Install this repo from Unity Package Manager window, inside Unity.
+```
+npm install -g openupm-cli
+openupm add com.starikcetin.bindingsrx-textmeshpro
+```
 
 ## Usage
 
